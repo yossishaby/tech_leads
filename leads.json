@@ -73,5 +73,20 @@
     "existing_user": true,
     "remarks": "Switched to competitor.",
     "account_number": "987654321"
+  },
+  {
+    "lead_id": 6,
+    "create_date": "11-05-2024",
+    "category": "television",
+    "first_name": "Lois_2",
+    "last_name": "Griffin_2",
+    "phone": "5555555666",
+    "status": "c",
+    "status_reason": "Customer not interested",
+    "assigned_to_name": "Jane Smith",
+    "tech_code": "JSM",
+    "existing_user": true,
+    "remarks": "Declined offer.",
+    "account_number": "123456789"
   }
 ]
