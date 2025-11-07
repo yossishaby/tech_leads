@@ -1,0 +1,23 @@
+[
+  {
+    "user_name": "test",
+    "password": "1234",
+    "first_name": "John",
+    "last_name": "Doe",
+    "tech_code": "JDO"
+  },
+  {
+    "user_name": "jane",
+    "password": "5678",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "tech_code": "JSM"
+  },
+  {
+    "user_name": "mike",
+    "password": "abcd",
+    "first_name": "Mike",
+    "last_name": "Jones",
+    "tech_code": "MJO"
+  }
+]
