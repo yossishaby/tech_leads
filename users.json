@@ -1,7 +1,7 @@
 [
   {
     "user_name": "test",
-    "password": "1234",
+    "password": "12345",
     "first_name": "John",
     "last_name": "Doe",
     "tech_code": "JDO"
